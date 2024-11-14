@@ -1,4 +1,7 @@
 # SNFT-Base-Sepolia-DEX
+Simple swap to exchange any EVM NativeToken to any ERC20 token you want
+
+
 
 -Deploy DEX Contract:
 
